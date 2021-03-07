@@ -13,7 +13,7 @@ export const IncomeExpenses = () => {
 
   const expense = amounts
     .filter((item) => item < 0)
-    .reduce((acc, cur) => (acc += cur), -1)
+    .reduce((acc, cur) => (acc += cur), 0)
     .toFixed(2);
 
   return (
