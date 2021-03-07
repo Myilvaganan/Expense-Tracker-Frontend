@@ -2,6 +2,6 @@ import React from 'react'
 
 export const Header = () => {
     return (
-        <h2>Tracker</h2>
+        <h2>Expenses Tracker</h2>
     )
 }
