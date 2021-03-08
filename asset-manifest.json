@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/expense-tracker-react-hooks/static/css/main.af14f8e5.chunk.css",
-    "main.js": "/expense-tracker-react-hooks/static/js/main.8cadd050.chunk.js",
-    "main.js.map": "/expense-tracker-react-hooks/static/js/main.8cadd050.chunk.js.map",
+    "main.css": "/expense-tracker-react-hooks/static/css/main.50c32a74.chunk.css",
+    "main.js": "/expense-tracker-react-hooks/static/js/main.e445b9a4.chunk.js",
+    "main.js.map": "/expense-tracker-react-hooks/static/js/main.e445b9a4.chunk.js.map",
     "runtime-main.js": "/expense-tracker-react-hooks/static/js/runtime-main.8e2418e1.js",
     "runtime-main.js.map": "/expense-tracker-react-hooks/static/js/runtime-main.8e2418e1.js.map",
     "static/js/2.d4f17ed4.chunk.js": "/expense-tracker-react-hooks/static/js/2.d4f17ed4.chunk.js",
     "static/js/2.d4f17ed4.chunk.js.map": "/expense-tracker-react-hooks/static/js/2.d4f17ed4.chunk.js.map",
     "index.html": "/expense-tracker-react-hooks/index.html",
-    "static/css/main.af14f8e5.chunk.css.map": "/expense-tracker-react-hooks/static/css/main.af14f8e5.chunk.css.map",
+    "static/css/main.50c32a74.chunk.css.map": "/expense-tracker-react-hooks/static/css/main.50c32a74.chunk.css.map",
     "static/js/2.d4f17ed4.chunk.js.LICENSE.txt": "/expense-tracker-react-hooks/static/js/2.d4f17ed4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8e2418e1.js",
     "static/js/2.d4f17ed4.chunk.js",
-    "static/css/main.af14f8e5.chunk.css",
-    "static/js/main.8cadd050.chunk.js"
+    "static/css/main.50c32a74.chunk.css",
+    "static/js/main.e445b9a4.chunk.js"
   ]
 }
